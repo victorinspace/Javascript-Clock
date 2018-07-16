@@ -3,3 +3,10 @@
 	padding: 0;
 	margin: 0;
 }
+
+.container {
+	background: teal;
+	width: 1000px;
+	height: 500px;
+	margin: 100px auto;
+}
