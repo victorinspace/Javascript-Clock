@@ -5,8 +5,10 @@
 }
 
 .container {
-	background: teal;
+	background: #0c807f;
 	width: 1000px;
 	height: 500px;
 	margin: 100px auto;
+	border: 20px ridge #1aedeb;
+	filter: drop-shadow(11px 17px 20px #064140);
 }
