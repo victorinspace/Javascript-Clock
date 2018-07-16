@@ -1,31 +1,33 @@
 // ==================================================================
-// Making a clock that can be standard or military time.
+// 	Making a clock that can be standard or military time.
 // ==================================================================
 
 
 let theTime = function() {
-	// creating new Date variable
+	// Creating new Date variable
 	let date = new Date()
 
-	// storing hours, minutes & seconds into variables
+	// Storing hours, minutes & seconds into variables
 	let hours = date.getHours()
 	let minutes = date.getMinutes()
 	let seconds = date.getSeconds()
 
-		// Check if the number is a single digit
-		function isDigit(val) {
-			return String(+val).charAt(0) == val
-		}
+	// Check if the number is a single digit by first converting 
+	// it to a string, then checking if the length is 
+	// equal to 1.
+	function isDigit(val) {
+		return String(val).length === 1
+	}
 
-		// If hours, minutes or seconds is equal to one digit
-		// then add a zero before the number
-		if ( isDigit(hours) ) {
-			hours = `0${hours}`
-		} else if ( isDigit(minutes) ) {
-			minutes = `0${minutes}`
-		} else if ( isDigit(seconds) ) {
-			seconds = `0${seconds}`
-		}
+	// If hours, minutes or seconds is equal to one digit
+	// then add a zero before the number
+	if ( isDigit(hours) ) {
+		hours = `0${hours}`
+	} else if ( isDigit(minutes) ) {
+		minutes = `0${minutes}`
+	} else if ( isDigit(seconds) ) {
+		seconds = `0${seconds}`
+	}
 
 	// DOM Clock
 	let clock = document.getElementById('clock')
