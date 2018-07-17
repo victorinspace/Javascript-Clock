@@ -1,0 +1,69 @@
+Script started on Mon Jul 16 19:06:43 2018
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [30m◒  [00m→ [K[82C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m[00m[97D[?1h=[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [30m◒  [00m→ [K[81C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m⍉[00m[97D[?1h=[?2004hccd d script[?1l>[?2004l
+]2;cd script]1;cd[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock/script]1;..-Clock/script[0m[27m[24m[J [35mscript [33m⚑ [30m◒  [00m→ [K[92C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m[00m[107D[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 8
+drwxr-xr-x  4 admin  staff   136B Jul 16 18:19 [1m[36m.[39;49m[0m
+drwxr-xr-x  8 admin  staff   272B Jul 16 19:06 [1m[36m..[39;49m[0m
+-rw-r--r--  1 admin  staff   1.4K Jul 16 19:06 main.js
+-rw-r--r--@ 1 admin  staff     0B Jul 16 19:06 time-module.js
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock/script]1;..-Clock/script[0m[27m[24m[J [35mscript [33m⚑ [30m◒  [00m→ [K[92C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m[00m[107D[?1h=[?2004hrrm time-module.js[1m [0m[0m [?1l>[?2004l
+]2;rm time-module.js]1;rm[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock/script]1;..-Clock/script[0m[27m[24m[J [35mscript [33m⚑ [30m◒  [00m→ [K[92C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m[00m[107D[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 8
+drwxr-xr-x  3 admin  staff   102B Jul 16 19:06 [1m[36m.[39;49m[0m
+drwxr-xr-x  8 admin  staff   272B Jul 16 19:06 [1m[36m..[39;49m[0m
+-rw-r--r--  1 admin  staff   1.4K Jul 16 19:06 main.js
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock/script]1;..-Clock/script[0m[27m[24m[J [35mscript [33m⚑ [30m◒  [00m→ [K[92C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m[00m[107D[?1h=[?2004h.../[?1l>[?2004l
+]2;../]1;../[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [30m◒  [00m→ [K[82C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m[00m[97D[?1h=[?2004hggit status[?1l>[?2004l
+]2;git status]1;gitOn branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   index.html[m
+	[31mmodified:   script/main.js[m
+	[31mmodified:   style/style.css[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mtypescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [30m◒  [00m→ [K[82C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m[00m[97D[?1h=[?2004hggit commit -m "[36m..[39;49m[0m
+-rw-r--r--  1 admin  staff   1.4K Jul 16 19:06 main.js
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock/script]1;..-Clock/script[0m[27m[24m[J [35mscript [33m⚑ [30m◒  [00m→ [K[92C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m[00m[107D[?1h=[?2004h.../[?1l>[?2004l
+]2;../]1;../[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [30m◒  [00m→ [K[82C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m[00m[97D[?1h=[?2004hggit status[?1l>[?2004l
+]2;git status]1;gitOn branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   index.html[m
+	[31mmodified:   script/main.js[m
+	[31mmodified:   style/style.css[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mtypescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [30m◒  [00m→ [K[82C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m[00m[97D[?1h=[?2004hggit commit -m "things are lookg ing better"[?1l>[?2004l
+]2;git commit -m "things are looking better"]1;gitOn branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+	[31mmodified:   index.html[m
+	[31mmodified:   script/main.js[m
+	[31mmodified:   style/style.css[m
+
+Untracked files:
+	[31mtypescript[m
+
+no changes added to commit
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [30m◒  [00m→ [K[81C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m⍉[00m[97D[?1h=[?2004h

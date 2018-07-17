@@ -4,23 +4,21 @@
 
 
 let theTime = function() {
-	// Creating new Date variable
+
 	let date = new Date()
 
-	// Storing hours, minutes & seconds into variables
-	let hours = date.getHours()
+	let hours = date.getHours() - 12
 	let minutes = date.getMinutes()
 	let seconds = date.getSeconds()
 
-	// Check if the number is a single digit by first converting 
-	// it to a string, then checking if the length is 
-	// equal to 1.
+	let clock = document.getElementById('clock')
+
+	// Checks for single for single digits
 	function isDigit(val) {
 		return String(val).length === 1
 	}
 
-	// If hours, minutes or seconds is equal to one digit
-	// then add a zero before the number
+	// Is the variable a single digit? Okay, add a 0 in front
 	if ( isDigit(hours) ) {
 		hours = `0${hours}`
 	} else if ( isDigit(minutes) ) {
@@ -29,9 +27,39 @@ let theTime = function() {
 		seconds = `0${seconds}`
 	}
 
-	// DOM Clock
-	let clock = document.getElementById('clock')
+	dofunction changeMilitary() {
+		if (!changeTime.military) {
+			console.log('military')
+		}
+	}
+
+	// Print to the page
 	clock.innerHTML = `${hours}:${minutes}:${seconds}`
+
 }
 
+
+// setInterval(timer.increment, 1000)
 setInterval(theTime, 1000)
+
+
+
+// var timer = thetime()
+// Module
+	// let config = {
+	// 	military: false
+	// }
+
+	// let changeTimeFormat = function() {
+	// 	clock.innerHTML = `${hours}:${minutes}:${seconds}`
+	// 	console.log(`${config.hours}:${config.minutes}:${config.seconds}`)
+	// }
+
+	// function changeMiliary() {
+	// 	config.military = !config.miltary
+	// 	console.log('hey')
+	// }
+
+	// return {
+	// 	changeMiliary: changemiliary
+	// }
