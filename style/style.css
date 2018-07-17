@@ -20,7 +20,7 @@ body {
 	background: var(--main-bg-color);
 	width: 1000px;
 	height: 550px;
-	margin: 50px auto;
+	margin: 5% auto;
 	border: 20px ridge var(--border-color);
 	border-radius: 3px;
 	filter: drop-shadow(11px 17px 20px var(--drop-shadow));

@@ -1,65 +1,46 @@
-// ==================================================================
-// 	Making a clock that can be standard or military time.
-// ==================================================================
-
+let clock = document.getElementById('clock')
+let button = document.getElementById('military')
 
 let theTime = function() {
-
-	let date = new Date()
-
-	let hours = date.getHours() - 12
-	let minutes = date.getMinutes()
-	let seconds = date.getSeconds()
-
-	let clock = document.getElementById('clock')
-
-	// Checks for single for single digits
-	function isDigit(val) {
-		return String(val).length === 1
+	const config = {
+		military: false
 	}
 
-	// Is the variable a single digit? Okay, add a 0 in front
-	if ( isDigit(hours) ) {
-		hours = `0${hours}`
-	} else if ( isDigit(minutes) ) {
-		minutes = `0${minutes}`
-	} else if ( isDigit(seconds) ) {
-		seconds = `0${seconds}`
-	}
+	function getTime() {
+		let date = new Date()
 
-	dofunction changeMilitary() {
-		if (!changeTime.military) {
-			console.log('military')
+		let hours = date.getHours()
+		let minutes = date.getMinutes()
+		let seconds = date.getSeconds()
+
+		if (!config.military) {
+			hours = hours > 12 ? hours - 12 : hours
 		}
+
+		return `${pad(hours)}:${pad(minutes)}:${pad(seconds)}`
 	}
 
-	// Print to the page
-	clock.innerHTML = `${hours}:${minutes}:${seconds}`
+	function switchMilitary() {
+		config.military = !config.military
+	}
 
+	function pad(num) {
+		num = '' + num
+		return num.length == 1 ? '0' + num : num
+	}
+
+	return {
+		switch: switchMilitary,
+		getTime: getTime
+	}
 }
 
+const time = theTime()
 
-// setInterval(timer.increment, 1000)
-setInterval(theTime, 1000)
+button.addEventListener('click', function() {
+	time.switch()
+})
 
-
-
-// var timer = thetime()
-// Module
-	// let config = {
-	// 	military: false
-	// }
-
-	// let changeTimeFormat = function() {
-	// 	clock.innerHTML = `${hours}:${minutes}:${seconds}`
-	// 	console.log(`${config.hours}:${config.minutes}:${config.seconds}`)
-	// }
-
-	// function changeMiliary() {
-	// 	config.military = !config.miltary
-	// 	console.log('hey')
-	// }
-
-	// return {
-	// 	changeMiliary: changemiliary
-	// }
+setInterval(function() {
+	clock.innerHTML = time.getTime()
+}, 1000)

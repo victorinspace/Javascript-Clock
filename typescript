@@ -32,27 +32,6 @@ Untracked files:
 	[31mtypescript[m
 
 no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [30m◒  [00m→ [K[82C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m[00m[97D[?1h=[?2004hggit commit -m "[36m..[39;49m[0m
--rw-r--r--  1 admin  staff   1.4K Jul 16 19:06 main.js
-[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock/script]1;..-Clock/script[0m[27m[24m[J [35mscript [33m⚑ [30m◒  [00m→ [K[92C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m[00m[107D[?1h=[?2004h.../[?1l>[?2004l
-]2;../]1;../[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [30m◒  [00m→ [K[82C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m[00m[97D[?1h=[?2004hggit status[?1l>[?2004l
-]2;git status]1;gitOn branch master
-Your branch is up to date with 'origin/master'.
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mmodified:   index.html[m
-	[31mmodified:   script/main.js[m
-	[31mmodified:   style/style.css[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	[31mtypescript[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
 [1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [30m◒  [00m→ [K[82C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m[00m[97D[?1h=[?2004hggit commit -m "things are lookg ing better"[?1l>[?2004l
 ]2;git commit -m "things are looking better"]1;gitOn branch master
 Your branch is up to date with 'origin/master'.
@@ -66,4 +45,360 @@ Untracked files:
 	[31mtypescript[m
 
 no changes added to commit
-[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [30m◒  [00m→ [K[81C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m⍉[00m[97D[?1h=[?2004h
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [30m◒  [00m→ [K[81C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h18m[00m [31m⍉[00m[97D[?1h=[?2004hggit add .[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [36m✓ [00m→ [K[85C[32mmaster [31m✗ [00m[00m[00m[35m[37m3h19m[00m [31m[00m[100D[?1h=[?2004hgit add .commit -m "things are looking better"[?1l>[?2004l
+]2;git commit -m "things are looking better"]1;git[master 8e48a2a] things are looking better
+ 4 files changed, 110 insertions(+), 11 deletions(-)
+ create mode 100644 typescript
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [34m𝝙 [00m→ [K[90C[32mmaster [00m[00m[35m[37m0m[00m [31m[00m[100D[?1h=[?2004hggit push origin master[?1l>[?2004l
+]2;git push origin master]1;gitCounting objects: 8, done.
+Delta compression using up to 8 threads.
+Compressing objects:  16% (1/6)   Compressing objects:  33% (2/6)   Compressing objects:  50% (3/6)   Compressing objects:  66% (4/6)   Compressing objects:  83% (5/6)   Compressing objects: 100% (6/6)   Compressing objects: 100% (6/6), done.
+Writing objects:  12% (1/8)   Writing objects:  25% (2/8)   Writing objects:  37% (3/8)   Writing objects:  50% (4/8)   Writing objects:  62% (5/8)   Writing objects:  75% (6/8)   Writing objects:  87% (7/8)   Writing objects: 100% (8/8)   Writing objects: 100% (8/8), 1.94 KiB | 1.94 MiB/s, done.
+Total 8 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)   [Kremote: Resolving deltas:  50% (1/2)   [Kremote: Resolving deltas: 100% (2/2)   [Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To github.com:victorinspace/Javascript-Clock.git
+   f794668..8e48a2a  master -> master
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [00m→ [K[88C[32mmaster [31m✗ [00m[00m[00m[35m[37m0m[00m [31m[00m[100D[?1h=[?2004h.../ .  .../[?1l>[?2004l
+]2;../]1;../[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode]1;~/PunchCode[0m[27m[24m[J [35mPunchCode [33m⚑ [36m✓ [30m◒  [00m→ [K[92C[32mmaster [31m✗ [00m[00m[00m[35m [31m[00m[102D[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 0
+drwxr-xr-x@ 24 admin  staff   816B Jul 16 11:53 [1m[36m.[39;49m[0m
+drwxr-xr-x+ 76 admin  staff   2.5K Jul 16 19:08 [1m[36m..[39;49m[0m
+drwxr-xr-x   7 admin  staff   238B Jul  2 09:38 [1m[36mChoose-Your-Own-Adventure[39;49m[0m
+drwxr-xr-x  10 admin  staff   340B Jul  6 13:36 [1m[36mCreate-Etsy-Search-Page[39;49m[0m
+drwxr-xr-x   7 admin  staff   238B Jun 27 09:02 [1m[36mForm-Design[39;49m[0m
+drwxr-xr-x   8 admin  staff   272B Jul  3 10:04 [1m[36mFunction-Practice[39;49m[0m
+drwxr-xr-x  11 admin  staff   374B Jul 15 22:14 [1m[36mGroup-Project[39;49m[0m
+drwxr-xr-x   3 admin  staff   102B Jun 25 10:48 [1m[36mHTML-Day-1[39;49m[0m
+drwxr-xr-x   8 admin  staff   272B Jul 16 19:06 [1m[36mJavascript-Clock[39;49m[0m
+drwxr-xr-x   6 admin  staff   204B Jul  9 11:37 [1m[36mObject-Oriented-Practice[39;49m[0m
+drwxr-xr-x   8 admin  staff   272B Jun 28 13:40 [1m[36mSk8er-Site[39;49m[0m
+drwxr-xr-x   9 admin  staff   306B Jul  9 14:40 [1m[36mUsing-Array-Methods-To-Process-Data[39;49m[0m
+drwxr-xr-x   5 admin  staff   170B Jul 12 10:14 [1m[36majax[39;49m[0m
+drwxr-xr-x   6 admin  staff   204B Jul 11 16:17 [1m[36mcalculator[39;49m[0m
+drwxr-xr-x   3 admin  staff   102B Jun 25 10:35 [1m[36mcheat-sheet[39;49m[0m
+drwxr-xr-x   7 admin  staff   238B Jun 25 10:28 [1m[36mday-1[39;49m[0m
+drwxr-xr-x   4 admin  staff   136B Jun 26 09:12 [1m[36mfirst-css[39;49m[0m
+drwxr-xr-x   4 admin  staff   136B Jun 27 10:38 [1m[36mforms-example[39;49m[0m
+drwxr-xr-x   8 admin  staff   272B Jul 11 12:10 [1m[36mjQuery-Calculator[39;49m[0m
+drwxr-xr-x   9 admin  staff   306B Jul 10 21:58 [1m[36mjQuery-DOM-Manipulation[39;49m[0m
+drwxr-xr-x   5 admin  staff   170B Jul 10 09:36 [1m[36mjquery-example[39;49m[0m
+drwxr-xr-x   8 admin  staff   272B Jul  6 10:3l[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 0
+drwxr-xr-x@ 24 admin  staff   816B Jul 16 11:53 [1m[36m.[39;49m[0m
+drwxr-xr-x+ 76 admin  staff   2.5K Jul 16 19:08 [1m[36m..[39;49m[0m
+drwxr-xr-x   7 admin  staff   238B Jul  2 09:38 [1m[36mChoose-Your-Own-Adventure[39;49m[0m
+drwxr-xr-x  10 admin  staff   340B Jul  6 13:36 [1m[36mCreate-Etsy-Search-Page[39;49m[0m
+drwxr-xr-x   7 admin  staff   238B Jun 27 09:02 [1m[36mForm-Design[39;49m[0m
+drwxr-xr-x   8 admin  staff   272B Jul  3 10:04 [1m[36mFunction-Practice[39;49m[0m
+drwxr-xr-x  11[?1l>[?2004l
+]2;mkdir hex-clock]1;mkdir[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode]1;~/PunchCode[0m[27m[24m[J [35mPunchCode [33m⚑ [36m✓ [30m◒  [00m→ [K[92C[32mmaster [31m✗ [00m[00m[00m[35m [31m[00m[102D[?1h=[?2004hhhex
+[J[1;31mhex-clock[0m/  [Jhexdump   [J[A[0m[27m[24m[20Chex[K[89C[32mmaster [31m✗ [00m[00m[00m[35m [31m[00m[99D-clock[1m/[0m
+[J[7mhex-clock/[0m  [Jhexdump   [J[A[0m[27m[24m[20Chex-clock[1m/[0m[K[82C[32mmaster [31m✗ [00m[00m[00m[35m [31m[00m[92D
+[7mhex-clock/[0m  [7mhex-clock/[0m  [A[0m[27m[24m[20Chex-clock[1m/[0m[K[82C[32mmaster [31m✗ [00m[00m[00m[35m [31m[00m[92D
+[J[A[30C[0m [?1l>[?2004l
+[J]2;hex-clock]1;hex-clock[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [33m⚑ [36m✓ [30m◒  [00m→ [K[92C[32mmaster [31m✗ [00m[00m[00m[35m [31m[00m[102D[?1h=[?2004hggit init[?1l>[?2004l
+]2;git init]1;gitInitialized empty Git repository in /Users/admin/PunchCode/hex-clock/.git/
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[101C[32mmaster [00m[00m[35m [31m[00m[109D[?1h=[?2004hggit  g  ttouch index.html style.css main.js[?1l>[?2004l
+]2;touch index.html style.css main.js]1;touch[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [30m◒  [00m→ [K[96C[32mmaster [31m✗ [00m[00m[00m[35m [31m[00m[106D[?1h=[?2004hggit add .[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [36m✓ [00m→ [K[97C[32mmaster [31m✗ [00m[00m[00m[35m [31m[00m[107D[?1h=[?2004hggit commit -m "initial files created"[?1l>[?2004l
+]2;git commit -m "initial files created"]1;git[master (root-commit) c640502] initial files created
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 index.html
+ create mode 100644 main.js
+ create mode 100644 style.css
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[99C[32mmaster [00m[00m[35m[37m0m[00m [31m[00m[109D[?1h=[?2004hggit  g  ggit co  push origin master[?1l>[?2004l
+]2;git push origin master]1;gitfatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[98C[32mmaster [00m[00m[35m[37m0m[00m [31m⍉[00m[109D[?1h=[?2004hggit status[?1l>[?2004l
+]2;git status]1;gitOn branch master
+nothing to commit, working tree clean
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[99C[32mmaster [00m[00m[35m[37m0m[00m [31m[00m[109D[?1h=[?2004hggi t init[?1l>[?2004l
+]2;git init]1;gitReinitialized existing Git repository in /Users/admin/PunchCode/hex-clock/.git/
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[99C[32mmaster [00m[00m[35m[37m1m[00m [31m[00m[109D[?1h=[?2004hggit commit -m "it's started"[?1l>[?2004l
+]2;git commit -m "it's started"]1;gitOn branch master
+nothing to commit, working tree clean
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[98C[32mmaster [00m[00m[35m[37m1m[00m [31m⍉[00m[109D[?1h=[?2004hggit add .[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[99C[32mmaster [00m[00m[35m[37m1m[00m [31m[00m[109D[?1h=[?2004hgit add .commit -m "it's started"[?1l>[?2004l
+]2;git commit -m "it's started"]1;gitOn branch master
+nothing to commit, working tree clean
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[98C[32mmaster [00m[00m[35m[37m1m[00m [31m⍉[00m[109D[?1h=[?2004hggit push origin master[?1l>[?2004l
+]2;git push origin master]1;gitfatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[98C[32mmaster [00m[00m[35m[37m1m[00m [31m⍉[00m[109D[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 0
+drwxr-xr-x   6 admin  staff   204B Jul 16 19:09 [1m[36m.[39;49m[0m
+drwxr-xr-x@ 25 admin  staff   850B Jul 16 19:08 [1m[36m..[39;49m[0m
+drwxr-xr-x  13 admin  staff   442B Jul 16 19:11 [1m[36m.git[39;49m[0m
+-rw-r--r--   1 admin  staff     0B Jul 16 19:09 index.html
+-rw-r--r--   1 admin  staff     0B Jul 16 19:09 main.js
+-rw-r--r--   1 admin  staff     0B Jul 16 19:09 style.css
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[99C[32mmaster [00m[00m[35m[37m2m[00m [31m[00m[109D[?1h=[?2004hggit remote add origin [?1l>[?2004l
+]2;git remote add origin]1;gitusage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=<push|fetch>]
+                          set up remote as a mirror to push to or fetch from
+
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[98C[32mmaster [00m[00m[35m[37m3m[00m [31m⍉[00m[109D[?1h=[?2004hggit add .[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[99C[32mmaster [00m[00m[35m[37m3m[00m [31m[00m[109D[?1h=[?2004hggit g  git add .remote add origin [22Dl                    [20Dgit push origin master[18Dcommit -m "it's started"[?1l>[?2004l
+]2;git commit -m "it's started"]1;gitOn branch master
+nothing to commit, working tree clean
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[98C[32mmaster [00m[00m[35m[37m4m[00m [31m⍉[00m[109D[?1h=[?2004hgit commit -m "it's started"[24Dadd .                   [19Dremote add origin [22Dl                    [20Dgit push origin master[?1l>[?2004l
+]2;git push origin master]1;gitfatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[98C[32mmaster [00m[00m[35m[37m4m[00m [31m⍉[00m[109D[?1h=[?2004hggit remote origin [7mgit@github.com:victorinspace/hex-clock.git[27m[42D[27mg[27mi[27mt[27m@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27mv[27mi[27mc[27mt[27mo[27mr[27mi[27mn[27ms[27mp[27ma[27mc[27me[27m/[27mh[27me[27mx[27m-[27mc[27ml[27mo[27mc[27mk[27m.[27mg[27mi[27mt[?1l>[?2004l
+]2;git remote origin git@github.com:victorinspace/hex-clock.git]1;giterror: Unknown subcommand: origin
+usage: git remote [-v | --verbose]
+   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>] <name> <url>
+   or: git remote rename <old> <new>
+   or: git remote remove <name>
+   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)
+   or: git remote [-v | --verbose] show [-n] <name>
+   or: git remote prune [-n | --dry-run] <name>
+   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...]
+   or: git remote set-branches [--add] <name> <branch>...
+   or: git remote get-url [--push] [--all] <name>
+   or: git remote set-url [--push] <name> <newurl> [<oldurl>]
+   or: git remote set-url --add <name> <newurl>
+   or: git remote set-url --delete <name> <url>
+
+    -v, --verbose         be verbose; must be placed before a subcommand
+
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[98C[32mmaster [00m[00m[35m[37m5m[00m [31m⍉[00m[109D[?1h=[?2004hggit  g  git remote origin git@github.com:victorinspace/hex-clock.git[56Dpush origin master                                      [38D[18Dcommit -m "it's started"[?1l>[?2004l
+]2;git commit -m "it's started"]1;gitOn branch master
+nothing to coorigin [7mgit@github.com:victorinspace/hex-clock.git[27m[42D[27mg[27mi[27mt[27m@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27mv[27mi[27mc[27mt[27mo[27mr[27mi[27mn[27ms[27mp[27ma[27mc[27me[27m/[27mh[27me[27mx[27m-[27mc[27ml[27mo[27mc[[K[98C[32mmaster [00m[00m[35m[37m5m[00m [31m⍉[00m[109D[?1h=[?2004hgit commit -m "it's started"[24Dremote origin git@github.com:victorinspace/hex-clock.git[56Dpush origin master                                      [38D[?1l>[?2004l
+]2;git push origin master]1;gitfatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[98C[32mmaster [00m[00m[35m[37m5m[00m [31m⍉[00m[109D[?1h=[?2004hggit add .[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[99C[32mmaster [00m[00m[35m[37m6m[00m [31m[00m[109D[?1h=[?2004hggit commit -m "first commit"[?1l>[?2004l
+]2;git commit -m "first commit"]1;gitOn branch master
+nothing to commit, working tree clean
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[98C[32mmaster [00m[00m[35m[37m6m[00m [31m⍉[00m[109D[?1h=[?2004hssubl .[?1l>[?2004l
+]2;subl .]1;subl[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[99C[32mmaster [00m[00m[35m[37m6m[00m [31m[00m[109D[?1h=[?2004hggit status[?1l>[?2004l
+]2;git status]1;gitOn branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   index.html[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [33m⚑ [00m→ [K[95C[32mmaster [31m✗ [00m[00m[00m[35m[37m7m[00m [31m[00m[107D[?1h=[?2004hggit add .[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [36m✓ [00m→ [K[95C[32mmaster [31m✗ [00m[00m[00m[35m[37m7m[00m [31m[00m[107D[?1h=[?2004hggit commit -m ' "the HTML"[?1l>[?2004l
+]2;git commit -m "the HTML"]1;git[master e92f140] the HTML
+ 1 file changed, 12 insertions(+)
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[99C[32mmaster [00m[00m[35m[37m0m[00m [31m[00m[109D[?1h=[?2004hggit push origin mater[?1l>[?2004l
+]2;git push origin mater]1;giterror: src refspec mater does not match any.
+error: failed to push some refs to 'origin'
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[98C[32mmaster [00m[00m[35m[37m0m[00m [31m⍉[00m[109D[?1h=[?2004hgit push origin materster[?1l>[?2004l
+]2;git push origin master]1;gitfatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[98C[32mmaster [00m[00m[35m[37m0m[00m [31m⍉[00m[109D[?1h=[?2004hggit remote add origin [7mgit@github.com:victorinspace/hex-clock.git[27m[42D[27mg[27mi[27mt[27m@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27mv[27mi[27mc[27mt[27mo[27mr[27mi[27mn[27ms[27mp[27ma[27mc[27me[27m/[27mh[27me[27mx[27m-[27mc[27ml[27mo[27mc[27mk[27m.[27mg[27mi[27mt[?1l>[?2004l
+]2;git remote add origin git@github.com:victorinspace/hex-clock.git]1;git[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[99C[32mmaster [00m[00m[35m[37m0m[00m [31m[00m[109D[?1h=[?2004hgit remote add origin git@github.com:victorinspace/hex-clock.git[60Dpush origin master                                          [42D[?1l>[?2004l
+]2;git push origin master]1;gitCounting objects: 6, done.
+Delta compression using up to 8 threads.
+Compressing objects:  20% (1/5)   Compressing objects:  40% (2/5)   Compressing objects:  60% (3/5)   Compressing objects:  80% (4/5)   Compressing objects: 100% (5/5)   Compressing objects: 100% (5/5), done.
+Writing objects:  16% (1/6)   Writing objects:  33% (2/6)   Writing objects:  50% (3/6)   Writing objects:  66% (4/6)   Writing objects:  83% (5/6)   Writing objects: 100% (6/6)   Writing objects: 100% (6/6), 654 bytes | 654.00 KiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0)
+To github.com:victorinspace/hex-clock.git
+ * [new branch]      master -> master
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [00m→ [K[99C[32mmaster [00m[00m[35m[37m0m[00m [31m[00m[109D[?1h=[?2004hoopen index.html[1m [0m[0m [?1l>[?2004l
+]2;open index.html]1;open[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/hex-clock]1;..ode/hex-clock[0m[27m[24m[J [35mhex-clock [33m⚑ [00m→ [K[94C[32mmaster [31m✗ [00m[00m[00m[35m[37m12m[00m [31m[00m[107D[?1h=[?2004h.../[?1l>[?2004l
+]2;../]1;../[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode]1;~/PunchCode[0m[27m[24m[J [35mPunchCode [33m⚑ [36m✓ [30m◒  [00m→ [K[92C[32mmaster [31m✗ [00m[00m[00m[35m [31m[00m[102D[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 0
+drwxr-xr-x@ 25 admin  staff   850B Jul 16 19:08 [1m[36m.[39;49m[0m
+drwxr-xr-x+ 76 admin  staff   2.5K Jul 16 21:34 [1m[36m..[39;49m[0m
+drwxr-xr-x   7 admin  staff   238B Jul  2 09:38 [1m[36mChoose-Your-Own-Adventure[39;49m[0m
+drwxr-xr-x  10 admin  staff   340B Jul  6 13:36 [1m[36mCreate-Etsy-Search-Page[39;49m[0m
+drwxr-xr-x   7 admin  staff   238B Jun 27 09:02 [1m[36mForm-Design[39;49m[0m
+drwxr-xr-x   8 admin  staff   272B Jul  3 10:04 [1m[36mFunction-Practice[39;49m[0m
+drwxr-xr-x  11 admin  staff   374B Jul 15 22:14 [1m[36mGroup-Project[39;49m[0m
+drwxr-xr-x   3 admin  staff   102B Jun 25 10:48 [1m[36mHTML-Day-1[39;49m[0m
+drwxr-xr-x   8 admin  staff   272B Jul 16 19:06 [1m[36mJavascript-Clock[39;49m[0m
+drwxr-xr-x   6 admin  staff   204B Jul  9 11:37 [1m[36mObject-Oriented-Practice[39;49m[0m
+drwxr-xr-x   8 admin  staff   272B Jun 28 13:40 [1m[36mSk8er-Site[39;49m[0m
+drwxr-xr-x   9 admin  staff   306B Jul  9 14:40 [1m[36mUsing-Array-Methods-To-Process-Data[39;49m[0m
+drwxr-xr-x   5 admin  staff   170B Jul 12 10:14 [1m[36majax[39;49m[0m
+drwxr-xr-x   6 admin  staff   204B Jul 11 16:17 [1m[36mcalculator[39;49m[0m
+drwxr-xr-x   3 admin  staff   102B Jun 25 10:35 [1m[36mcheat-sheet[39;49m[0m
+drwxr-xr-x   7 admin  staff   238B Jun 25 10:28 [1m[36mday-1[39;49m[0m
+drwxr-xr-x   4 admin  staff   136B Jun 26 09:12 [1m[36mfirst-css[39;49m[0m
+drwxr-xr-x   4 admin  staff   136B Jun 27 10:38 [1m[36mforms-example[39;49m[0m
+drwxr-xr-x   6 admin  staff   204B Jul 16 19:09 [1m[36mhex-clock[39;49m[0m
+drwxr-xr-x   8 admin  staff   272B Jul 11 12:10 [1m[36mjQuery-Calculator[39;49m[0m
+drwxr-xr-x   9 admin  staff   306B Jul 10 21:58 [1m[36mjQuery-DOM-Manipulation[39;49m[0m
+drwxr-xr-x   5 admin  staff   170B Jul 10 09:36 [1m[36mjquery-example[39;49m[0m
+drwxr-xr-x   8 admin  staff   272B Jul  6 10:36 [1m[36mklasjdfsdf[39;49m[0m
+drwxr-xr-x   3 admin  staff   102B Jun 26 09:01 [1m[36moctocats[39;49m[0m
+drwxr-xr-x   4 admin  staff   136B Jun 28 10:34 [1m[36mresponsive[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode]1;~/PunchCode[0m[27m[24m[J [35mPunchCode [33m⚑ [36m✓ [30m◒  [00m→ [K[92C[32mmaster [31m✗ [00m[00m[00m[35m [31m[00m[102D[?1h=[?2004hggti add     g  ggit add .[?1l>[?2004l
+]2;git add .]1;gitwarning: adding embedded git repository: PunchCode/Javascript-Clock
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> PunchCode/Javascript-Clock
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached PunchCode/Javascript-Clock
+hint: 
+hint: See "git help submodule" for more information.
+warning: adding embedded git repository: PunchCode/hex-clock
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode]1;~/PunchCode[0m[27m[24m[J [35mPunchCode [33m⚑ [36m✓ [30m◒  [00m→ [K[92C[32mmaster [31m✗ [00m[00m[00m[35m [31m[00m[102D[?1h=[?2004hggit push    add .[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode]1;~/PunchCode[0m[27m[24m[J [35mPunchCode [33m⚑ [36m✓ [30m◒  [00m→ [K[92C[32mmaster [31m✗ [00m[00m[00m[35m [31m[00m[102D[?1h=[?2004hggit commit -m "chang  ges   nges"[?1l>[?2004l
+]2;git commit -m "changes"]1;git[master (root-commit) 7740af2] changes
+ 37 files changed, 478 insertions(+)
+ create mode 160000 PunchCode/Choose-Your-Own-Adventure
+ create mode 160000 PunchCode/Create-Etsy-Search-Page
+ create mode 160000 PunchCode/Form-Design
+ create mode 160000 PunchCode/Function-Practice
+ create mode 160000 PunchCode/Group-Project
+ create mode 160000 PunchCode/HTML-Day-1/HTML-Day-1
+ create mode 160000 PunchCode/Javascript-Clock
+ create mode 160000 PunchCode/Object-Oriented-Practice
+ create mode 160000 PunchCode/Sk8er-Site
+ create mode 160000 PunchCode/Using-Array-Methods-To-Process-Data
+ create mode 100644 PunchCode/ajax/index.html
+ create mode 100644 PunchCode/ajax/main.js
+ create mode 100644 PunchCode/ajax/style.css
+ create mode 160000 PunchCode/calculator
+ create mode 100644 PunchCode/cheat-sheet/cheat-sheet.txt
+ create mode 160000 PunchCode/day-1
+ create mode 100644 PunchCode/first-css/index.html
+ create mode 100644 PunchCode/first-css/style.css
+ create mode 100644 PunchCode/forms-example/index.html
+ create mode 100644 PunchCode/forms-example/style.css
+ create mode 160000 PunchCode/hex-clock
+ create mode 160000 PunchCode/jQuery-Calculator
+ create mode 160000 PunchCode/jQuery-DOM-Manipulation
+ create mode 100644 PunchCode/jquery-example/index.html
+ create mode 100644 PunchCode/jquery-example/main.js
+ create mode 100644 PunchCode/jquery-example/style.css
+ create mode 100755 PunchCode/klasjdfsdf/assets/cart.png
+ create mode 100755 PunchCode/klasjdfsdf/assets/hamburger.png
+ create mode 100755 PunchCode/klasjdfsdf/assets/heart.png
+ create mode 100644 PunchCode/klasjdfsdf/index.html
+ create mode 100644 PunchCode/klasjdfsdf/main.js
+ create mode 100755 PunchCode/klasjdfsdf/readme.md
+ create mode 100644 PunchCode/klasjdfsdf/style.css
+ create mode 100644 PunchCode/   nges"[?1l>[?2004l
+]2;git commit -m "changes"]1;git[master (root-commit) 7740af2] changes
+ 37 files changed, 478 insertions(+)
+ create mode 160000 PunchCode/Choose-Your-Own-Adventure
+ create mode 160000 PunchCode/Create-Etsy-Search-Page
+ create mode 160000 PunchCode/Form-Design
+ create mode 160000 PunchCode/Function-Practice
+ create mode 160000 PunchCode/Group-Project
+ create mode 160000 PunchCode/HTML-Day-1/HTML-Day-1
+ create mode 160000 PunchCode/Javascript-Clock
+ create mode 160000 PunchCode/Object-Oriented-Practice
+ create mode 160000 PunchCode/Sk8er-Site
+ create mode 160000 PunchCode/Using-Array-Methods-To-Process-Data
+ create mode 100644 PunchCode/ajax/index.html
+ create mode 100644 PunchCode/ajax/main.js
+ create mode 100644 PunchCode/ajax/style.css
+ create mode 160000 PunchCode/calculator
+ create mode 100644 PunchCode/cheat-sheet/cheat-sheet.txt
+ create mode 160000 PunchCode/day-1
+ create mode 100644 PunchCode/first-css/index.html
+ create mode 100644 PunchCode/first-css/style.css
+ create mode 100644 PunchCode/forms-example/index.html
+ create mode 100644 PunchCode/forms-example/style.css
+ create mode 160000 PunchCode/hex-clock
+ create mode 160000 PunchCode/jQuery-Calculator
+ create mode 160000 PunchCode/jQuery-DOM-Manipulation
+ create mode 100644 PunchCode/jquery-example/index.html
+ create mode 100644 PunchCode/jquery-example/main.js
+ create mode 100644 PunchCode/jquery-example/style.css
+ create mode 100755 PunchCode/klasjdfsdf/assets/cart.png
+ create mode 100755 PunchCode/klasjdfsdf/assets/hamburger.png
+ create mode 100755 PunchCode/klasjdfsdf/assets/heart.png
+ create mode 100644 PunchCode/klasjdfsdf/index.html
+ create mode 100644 PunchCode/klasjdfsdf/main.js
+ create mode 100755 PunchCode/klasjdfsdf/readme.md
+ create mode 100644 PunchCode/klasjdfsdf/style.css
+ create mode 100644 PunchCode/klasjdfsdf/untitled.html
+ create mode 160000 PunchCode/octocats/Octocats
+ create mode 100644 PunchCode/responsive/index.html
+ create mode 100644 PunchCode/responsive/style.css
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@Ving objects:  41% (14/34)   Writing objects:  44% (15/34)   Writing objects:  47% (16/34)   Writing objects:  50% (17/34)   Writing objects:  52% (18/34)   Writing objects:  55% (19/34)   Writing objects:  58% (20/34)   Writing objects:  61% (21/34)   Writing objects:  64% (22/34)   Writing objects:  67% (23/34)   Writing objects:  73% (25/34)   Writing objects:  76% (26/34)   Writing objects:  79% (27/34)   Writing objects:  82% (28/34)   Writing objects:  85% (29/34)   Writing objects:  88% (30/34)   Writing objects:  91% (31/34)   Writing objects:  94% (32/34)   Writing objects:  97% (33/34)   Writing objects: 100% (34/34)   Writing objects: 100% (34/34), 11.48 KiB | 2.30 MiB/s, done.
+Total 34 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), done.[K
+To github.com:victorinspace/first-css.git
+ * [new branch]      master -> master
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode]1;~/PunchCode[0m[27m[24m[J [35mPunchCode [33m⚑ [30m◒  [00m→ [K[92C[32mmaster [31m✗ [00m[00m[00m[35m[37m0m[00m [31m[00m[104D[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 0
+drwxr-xr-x@ 25 admin  staff   850B Jul 16 19:08 [1m[36m.[39;49m[0m
+drwxr-xr-x+ 76 admin  staff   2.5K Jul 16 21:35 [1m[36m..[39;49m[0m
+drwxr-xr-x   7 admin  staff   238B Jul  2 09:38 [1m[36mChoose-Your-Own-Adventure[39;49m[0m
+drwxr-xr-x  10 admin  staff   340B Jul  6 13:36 [1m[36mCreate-Etsy-Search-Page[39;49m[0m
+drwxr-xr-x   7 admin  staff   238B Jun 27 09:02 [1m[36mForm-Design[39;49m[0m
+drwxr-xr-x   8 admin  staff   272B Jul  3 10:04 [1m[36mFunction-Practice[39;4ing objects:  41% (14/34)   Writing objects:  44% (15/34)   Writing objects:  47% (16/34)   Writing objects:  50% (17/34)   Writing objects:  52% (18/34)   Writing objects:  55% (19/34)   Writing objects:  58% (20/34)   Writing objects:  61% (21/34)   Writing objects:  64% (22/34)   Writing objects:  67% (23/34)   Writing objects:  73% (25/34)   Writing objects:  76% (26/34)   Writing objects:  79% (27/34)   Writing objects:  82% (28/34)   Writing objects:  85% (29/34)   Writing objects:  88% (30/34)   Writing objects:  91% (31/34)   Writing objects:  94% (32/34)   Writing objects:  97% (33/34)   Writing objects: 100% (34/34)   Writing objects: 100% (34/34), 11.48 KiB | 2.30 MiB/s, done.
+Total 34 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), done.[K
+To github.com:victorinspace/first-css.git
+ * [new branch]      master -> master
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode]1;~/PunchCode[0m[27m[24m[J [35mPunchCode [33m⚑ [30m◒  [00m→ [K[92C[32mmaster [31m✗ [00m[00m[00m[35m[37m0m[00m [31m[00m[104D[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 0
+drwxr-xr-x@ 25 admin  staff   850B Jul 16 19:08 [1m[36m.[39;49m[0m
+drwxr-xr-x+ 76 admin  staff   2.5K Jul 16 21:35 [1m[36m..[39;49m[0m
+drwxr-xr-x   7 admin  staff   238B Jul  2 09:38 [1m[36mChoose-Your-Own-Adventure[39;49m[0m
+drwxr-xr-x  10 admin  staff   340B Jul  6 13:36 [1m[36mCreate-Etsy-Search-Page[39;49m[0m
+drwxr-xr-x   7 admin  staff   238B Jun 27 09:02 [1m[36mForm-Design[39;49m[0m
+drwxr-xr-x   8 admin  staff   272B Jul  3 10:04 [1m[36mFunction-Practice[39;49m[0m
+drwxr-xr-x  11 admin  staff   374B Jul 15 22:14 [1m[36mGroup-Project[39;49m[0m
+drwxr-xr-x   3 admin  staff   102B Jun 25 10:48 [1m[36mHTML-Day-1[39;49m[0m
+drwxr-xr-x   8 admin  staff   272B Jul 16 19:06 [1m[36mJavascript-Clock[39;49m[0m
+drwxr-xr-x   6 admin  staff   204B Jul  9 11:37 [1m[36mObject-Oriented-Pract                [A[A[0m[27m[24m[18Cjava[K[88C[32mmaster [31m✗ [00m[00m[00m[35m[37m0m[00m [31m[00m[100DJ[3Cscript-Clock[1m/[0m
+[7mJavascript-Clock/[0m  javac              javah              javapackager                                         [K
+[Jjava               [Jjavadoc            [Jjavap              [Jjavaws             [J                                  [A[A[0m[27m[24m[18CJavascript-Clock[1m/[0m[K[75C[32mmaster [31m✗ [00m[00m[00m[35m[37m0m[00m [31m[00m[87D
+[7mJavascript-Clock/[0m  [7mJavascript-Clock/[0m  [A[0m[27m[24m[18CJavascript-Clock[1m/[0m[K[75C[32mmaster [31m✗ [00m[00m[00m[35m[37m0m[00m [31m[00m[87D
+[J[A[35C[0m [?1l>[?2004l
+[J]2;Javascript-Clock]1;Javascript-Clock[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [00m→ [K[85C[32mmaster [31m✗ [00m[00m[00m[35m[37m2h28m[00m [31m[00m[100D[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 112
+drwxr-xr-x   8 admin  staff   272B Jul 16 19:06 [1m[36m.[39;49m[0m
+drwxr-xr-x@ 25 admin  staff   850B Jul 16 19:08 [1m[36m..[39;49m[0m
+drwxr-xr-x  14 admin  staff   476B Jul 16 21:36 [1m[36m.git[39;49m[0m
+-rw-r--r--   1 admin  staff   1.1K Jul 16 11:53 README.md
+-rw-r--r--@  1 admin  staff   464B Jul 16 16:56 index.html
+drwxr-xr-x   3 admin  staff   102B Jul 16 19:06 [1m[36mscript[39;49m[0m
+drwxr-xr-x   3 admin  staff   102B Jul 16 11:57 [1m[36mstyle[39;49m[0m
+-rw-r--r--   1 admin  staff    44K Jul 16 21:36 typescript
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [00m→ [K[85C[32mmaster [31m✗ [00m[00m[00m[35m[37m2h28m[00m [31m[00m[100D[?1h=[?2004hggig  ssubl .[?1l>[?2004l
+]2;subl .]1;subl[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [00m→ [K[85C[32mmaster [31m✗ [00m[00m[00m[35m[37m2h28m[00m [31m[00m[100D[?1h=[?2004h[A[35C[0m [?1l>[?2004l
+[J]2;Javascript-Clock]1;Javascript-Clock[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [00m→ [K[85C[32mmaster [31m✗ [00m[00m[00m[35m[37m2h28m[00m [31m[00m[100D[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 112
+drwxr-xr-x   8 admin  staff   272B Jul 16 19:06 [1m[36m.[39;49m[0m
+drwxr-xr-x@ 25 admin  staff   850B Jul 16 19:08 [1m[36m..[39;49m[0m
+drwxr-xr-x  14 admin  staff   476B Jul 16 21:36 [1m[36m.git[39;49m[0m
+-rw-r--r--   1 admin  staff   1.1K Jul 16 11:53 README.md
+-rw-r--r--@  1 admin  staff   464B Jul 16 16:56 index.html
+drwxr-xr-x   3 admin  staff   102B Jul 16 19:06 [1m[36mscript[39;49m[0m
+drwxr-xr-x   3 admin  staff   102B Jul 16 11:57 [1m[36mstyle[39;49m[0m
+-rw-r--r--   1 admin  staff    44K Jul 16 21:36 typescript
+[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [00m→ [K[85C[32mmaster [31m✗ [00m[00m[00m[35m[37m2h28m[00m [31m[00m[100D[?1h=[?2004hggig  ssubl .[?1l>[?2004l
+]2;subl .]1;subl[1m[7m%[27m[1m[0m                                                                                                                           ]2;admin@VictorsMacBookPro: ~/PunchCode/Javascript-Clock]1;..ascript-Clock[0m[27m[24m[J [35mJavascript-Clock [33m⚑ [00m→ [K[85C[32mmaster [31m✗ [00m[00m[00m[35m[37m2h28m[00m [31m[00m[100D[?1h=[?2004h
